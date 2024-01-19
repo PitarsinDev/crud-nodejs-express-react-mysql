@@ -21,3 +21,4 @@ npm i
 * Express
 * React
 * Tailwind
+* Mysql
